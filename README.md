@@ -20,7 +20,7 @@
 
 ### 📌 Principais Projetos
 
-- 📊 [**projeto-sistema-rh-oracle**](https://github.com/ErickVeronezi/sistema-rh-oracle).  
+- 📊 [**projeto-sistema-rh-oracle**](https://github.com/ErickVeronezi/sistema-rh-oracle).
   Sistema completo de Recursos Humanos utilizando Oracle SQL, com procedures, triggers e modelagem relacional.
 
 - 📚 [**bibliotecas-mysql**](https://github.com/ErickVeronezi/sistema-biblioteca-mysql).
