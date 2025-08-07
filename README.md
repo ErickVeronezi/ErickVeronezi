@@ -20,13 +20,13 @@
 
 ### 📌 Principais Projetos
 
-- 📊 [**projeto-sistema-rh-oracle**](https://github.com/ErickVeronezi/sistema-rh-oracle).
+- 📊 [**projeto-sistema-rh-oracle**](https://github.com/ErickVeronezi/sistema-rh-oracle).  
   Sistema completo de Recursos Humanos utilizando Oracle SQL, com procedures, triggers e modelagem relacional.
 
-- 📚 [**bibliotecas-mysql**](https://github.com/ErickVeronezi/sistema-biblioteca-mysql).
+- 📚 [**bibliotecas-mysql**](https://github.com/ErickVeronezi/sistema-biblioteca-mysql).  
   Sistema de gerenciamento de bibliotecas em MySQL, com foco em CRUD, views e procedures.
 
-- 🏫 [**sistema-escola-sqlserver**](https://github.com/ErickVeronezi/sistema-escola-sql).
+- 🏫 [**sistema-escola-sqlserver**](https://github.com/ErickVeronezi/sistema-escola-sql).  
   Sistema escolar desenvolvido em SQL Server, com estrutura de turmas, alunos, professores e notas.
 
 - 🏋 [**projeto-academia-bd-postgresql**](https://github.com/ErickVeronezi/sistema-academia-postgresql).  
