@@ -1,7 +1,7 @@
 ### 👋 Olá! Meu nome é Erick Veronezi
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.  
-💻 Atualmente focado em projetos com Banco de Dados, Python e HTML.  
+💻 Atualmente focado em projetos com Python, Java e HTML.  
 📍 Localização: Atibaia - SP, Brasil
 
 ---
