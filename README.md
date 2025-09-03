@@ -23,6 +23,9 @@
 - 📊 [**sistema-rh-oracle**](https://github.com/ErickVeronezi/sistema-rh-oracle).  
   Sistema completo de Recursos Humanos utilizando Oracle SQL, com procedures, triggers e modelagem relacional.
 
+- 🐍 [**projetos-python**](https://github.com/ErickVeronezi/projetos-python).
+  Pequenos projetos em Python apenas para fins educativos.
+
 - 📚 [**sistema-bibliotecas-mysql**](https://github.com/ErickVeronezi/sistema-biblioteca-mysql).  
   Sistema de gerenciamento de bibliotecas em MySQL, com foco em CRUD, views e procedures.
 
